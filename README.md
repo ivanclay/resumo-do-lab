@@ -9,3 +9,7 @@ Neste lab, foram mostraados os modelos de criação de VMs do Azure, desde o rel
 
 Neste lab, foi mostrado como criar a conta de armazenamento, como transferir conteúdo via azcopy e portal e em caso de grandes volumes quais são as possibilidades (família Data Box).
 
+## Laboratório da Segurança e Identidade
+
+Neste lab, foi mostrado como se faz o controle de identidades, criação de usuários, ferramentas de verificação de segurança, como o Azure Defender, etc.
+
