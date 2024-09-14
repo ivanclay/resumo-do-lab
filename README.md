@@ -13,3 +13,7 @@ Neste lab, foi mostrado como criar a conta de armazenamento, como transferir con
 
 Neste lab, foi mostrado como se faz o controle de identidades, criação de usuários, ferramentas de verificação de segurança, como o Azure Defender, etc.
 
+## Laboratório Otimização de Custos
+
+Neste lab, foi mostrado como utilizar a calculadora de custos para estimar a migração/utilização da nuvem e também os meios para monitorar os custos a medida que forem gerados.
+
