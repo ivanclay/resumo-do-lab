@@ -24,3 +24,7 @@ O gerenciamento de políticas de acesso no Azure envolve a definição e control
 ## Laboratório Ferramentas de Implantação
 
 As ferramentas de implantação no Azure facilitam a criação e o gerenciamento de recursos de forma automatizada e eficiente. O Azure Cloud Shell é um terminal baseado em navegador que permite executar scripts e comandos para gerenciar recursos, oferecendo suporte ao Azure CLI e ao PowerShell, sem a necessidade de instalar nada localmente. O Bicep, por sua vez, é uma linguagem declarativa projetada para simplificar a criação de templates de infraestrutura como código (IaC), substituindo o formato JSON do Azure Resource Manager (ARM), tornando a implantação de recursos mais legível e fácil de manter.
+
+## Laboratório Monitoramento Inteligente
+
+O monitoramento inteligente no Azure combina várias ferramentas para garantir o acompanhamento e a saúde dos serviços e recursos. O Azure Monitor coleta e analisa dados de telemetria em tempo real, permitindo monitorar o desempenho e a integridade de aplicativos e infraestrutura. Ele se integra com Azure Logs, que armazenam logs detalhados de atividades, permitindo que você crie consultas personalizadas para identificar problemas e otimizar o desempenho. Já o Azure Service Health oferece insights sobre o status dos serviços do Azure, notificando quando há interrupções ou degradação de desempenho, ajudando a tomar medidas proativas para mitigar impactos.
