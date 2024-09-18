@@ -17,3 +17,7 @@ Neste lab, foi mostrado como se faz o controle de identidades, criação de usu�
 
 Neste lab, foi mostrado como utilizar a calculadora de custos para estimar a migração/utilização da nuvem e também os meios para monitorar os custos a medida que forem gerados.
 
+## Laboratório Gerenciamento de Políticas
+
+O gerenciamento de políticas de acesso no Azure envolve a definição e controle de permissões e restrições para garantir segurança e conformidade. Com Azure Policy, é possível criar regras que monitoram e impõem configurações nos recursos, evitando alterações indesejadas. Azure Blueprints auxiliam na criação de ambientes governados, aplicando políticas e papéis de acesso de forma padronizada. Além disso, o Azure Purview oferece uma visão centralizada para a governança de dados, ajudando a gerenciar e controlar o acesso a informações sensíveis. Bloqueios de recursos podem ser aplicados para evitar exclusões ou modificações acidentais em recursos críticos.
+
